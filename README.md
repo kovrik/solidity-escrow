@@ -7,7 +7,8 @@ A timelock-like feature where funds will be automatically sent back to the depos
 
 # Stack
 - Solidity
-- React
 - Hardhat
+- OpenZeppelin
 - Ethers
 - Chai
+- React
